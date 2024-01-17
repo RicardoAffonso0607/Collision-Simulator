@@ -12,7 +12,7 @@ The Collision Simulator with Balls is a Python project that offers an interactiv
 
 3. **Graphical Visualization:** Utilizes Pygame for an attractive graphical representation of the moving balls and collisions. Customize ball appearance with different colors and styles.
 
-## Video
+## Video Preview
 
 https://github.com/RicardoAffonso0607/Collision-Simulator/assets/127418054/5798408f-336b-4d93-a056-4be7dc5d341c
 
